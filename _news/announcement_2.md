@@ -41,7 +41,7 @@ A significant body of literature focuses on methods of optimisation in mathemati
 
  <b>Topics of interest: </b>
 
-This Special Issue invites authors to submit articles focusing on optimization methods that rely on learning techniques to address problems in logistics and transportation. Theoretical papers are acceptable, provided that they have case studies/numerical examples in the logistics/transportation field; models and algorithms that utilize learning to better understand the problem structure, physics, and behavior fall in the scope of the special session. We are particularly interested in contributions that are comprehensive enough to also cover or address problems in logistics and supply chains, that consider sustainability, IoT, electric vehicles, energy efficiency, and other relevant areas. We welcome both original research and review articles. Possible contributions may include, but are not limited to, the following topics:
+> This Special Issue invites authors to submit articles focusing on optimization methods that rely on learning techniques to address problems in logistics and transportation. Theoretical papers are acceptable, provided that they have case studies/numerical examples in the logistics/transportation field; models and algorithms that utilize learning to better understand the problem structure, physics, and behavior fall in the scope of the special session. We are particularly interested in contributions that are comprehensive enough to also cover or address problems in logistics and supply chains, that consider sustainability, IoT, electric vehicles, energy efficiency, and other relevant areas. We welcome both original research and review articles. Possible contributions may include, but are not limited to, the following topics:
 
 <ul> 
     <li>Enhancing classical methods via ML</li>
@@ -51,7 +51,7 @@ This Special Issue invites authors to submit articles focusing on optimization m
     <li>Reinforcement learning based methods</li>
     <li>Novel classes of methods</li>
 </ul>
-***
+
 <!--
 Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
 
@@ -73,4 +73,4 @@ Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxide
 > —Anais Nin
 
 Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
->
+-->
