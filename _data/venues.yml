@@ -1,27 +1,6 @@
-"TRE":
-  url: https://www.sciencedirect.com/journal/transportation-research-part-e-logistics-and-transportation-review/
-
-"COR":
-  url: https://www.sciencedirect.com/journal/computers-and-operations-research/
-
-"OMEGA":
-  url: https://www.sciencedirect.com/journal/omega/
-
-"EJOR":
-  url: https://www.sciencedirect.com/journal/european-journal-of-operational-research/
-
-"RAIRO":
-  url: https://www.rairo-ro.org/
-
-"ANOR":
-  url: https://www.springer.com/journal/10479/
-
-"AMC"
-  url: https://www.sciencedirect.com/journal/applied-mathematics-and-computation/
-
-"AMM"
-  url: https://www.sciencedirect.com/journal/applied-mathematical-modelling/
-
-"ROADEF"
-  url: https://www.roadef.org/societe-francaise-recherche-operationnelle-aide-decision/
+"AJP":
+  url: https://aapt.scitation.org/journal/ajp
   color: "#00369f"
+
+"PhysRev":
+  url: https://journals.aps.org/
